@@ -41,10 +41,4 @@
     <string name="action_mute_name">Bisukan semua panggilan dan notifikasi</string>
     <string name="action_flashlight_name">Senter aktif/nonaktif</string>
     <string name="action_screen_name">Layar aktif/nonaktif</string>
-
-    <string name="setting_sensitivity_title">Sensitivitas</string>
-    <string name="setting_screen_off_title">Izinkan saat layar mati</string>
-    <string name="action_assistant_name">Buka asisten</string>
-    <string name="action_camera_name">Buka kamera</string>
-    <string name="action_power_menu_name">Buka menu daya</string>
 </resources>
