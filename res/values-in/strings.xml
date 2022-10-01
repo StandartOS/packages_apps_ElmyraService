@@ -15,6 +15,33 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Entry points in Settings -->
+    <string name="settings_entry_title">Kustomisasi Active Edge™</string>
+    <string name="settings_entry_summary_on">Aktif / <xliff:g id="action" example="Take screenshot">%1$s</xliff:g></string>
+    <string name="settings_entry_summary_off">Nonaktif</string>
+    <string name="settings_search_keywords">Active Edge, squeeze, edge, gesture, assist, assistant</string>
+    
+    <!-- Items in Active Edge gesture settings -->
+    <string name="setting_enabled_title">Remas telepon untuk memulai aksi</string>
+    <string name="setting_enabled_summary">Untuk memulai aksi, remas dan lepas sisi bawah telepon anda</string>
+    <string name="setting_sensitivity_title">Sensitivitas</string>
+    <string name="setting_sensitivity_light">Remasan ringan</string>
+    <string name="setting_sensitivity_firm">Remasan kuat</string>
+    <string name="setting_screen_off_title">Mengizinkan saat layar mati</string>
+    <string name="setting_screen_off_summary">Meningkatkan pemicu palsu</string>
+    <string name="setting_screen_off_blocked_summary">Blokir aksi</string>
+    <string name="setting_action_title">Remasan</string>
+
+    <!-- Actions -->
+    <string name="action_screenshot_name">Ambil tangkapan layar</string>
+    <string name="action_assistant_name">Buka asisten</string>
+    <string name="action_camera_name">Buka kamera</string>
+    <string name="action_power_menu_name">Buka menu daya</string>
+    <string name="action_mute_name">Bisukan semua panggilan dan notifikasi</string>
+    <string name="action_flashlight_name">Senter aktif/nonaktif</string>
+    <string name="action_screen_name">Layar aktif/nonaktif</string>
+
     <string name="setting_sensitivity_title">Sensitivitas</string>
     <string name="setting_screen_off_title">Izinkan saat layar mati</string>
     <string name="action_assistant_name">Buka asisten</string>

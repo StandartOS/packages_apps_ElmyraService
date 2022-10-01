@@ -28,7 +28,7 @@
     <string name="summary_placeholder" translatable="false">&#160;</string>
 
     <!-- Entry points in Settings -->
-    <string name="settings_entry_title">Active Edge</string>
+    <string name="settings_entry_title">Active Edge Customization™</string>
     <string name="settings_entry_summary_on">On / <xliff:g id="action" example="Take screenshot">%1$s</xliff:g></string>
     <string name="settings_entry_summary_off">Off</string>
     <string name="settings_search_keywords">Active Edge, squeeze, edge, gesture, assist, assistant</string>
